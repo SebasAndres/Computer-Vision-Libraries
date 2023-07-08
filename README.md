@@ -1,4 +1,4 @@
-# Optical Character Recognition (OCR)
+# Optical Character Recognition (OCR) 👁
 
 Formas de resolver problemas similares al dataset MNIST (Optical Character Recognition).
 
